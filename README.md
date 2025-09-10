@@ -1,6 +1,6 @@
 # MallCustomers-DBSCAN
 # Mall Customers-DBSCAN
-<img src= "https://i.postimg.cc/qvYw8wKw/Chat-GPT-Image-Aug-31-2025-04-22-43-PM.png" width="1000" height="400">
+<img src= "https://i.postimg.cc/g201vJ29/Chat-GPT-Image-Aug-31-2025-04-22-43-PM.png" width="1000" height="400">
 
 * Introduction to DBSCAN on Mall Customers Dataset
 
